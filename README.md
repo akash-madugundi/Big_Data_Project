@@ -22,3 +22,11 @@ The system generates a synthetic packet stream with heavy hitters and processes 
 - morris.py, flajolet_martin.py, count_min.py, ams.py – algorithms
 - generator.py – synthetic traffic stream
 - utils.py – hashing utilities
+
+---
+
+## Team
+| S. No | Name       | Roll No  |
+| :---- | :--------- | :------- |
+|   1   | Akshath RH | CS22B003 |
+|   2   | M Akash    | CS22B037 |
